@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@angular/build": "^21.0.2",
-    "@angular/cli": "^21.0.2",
+    "@angular/cli": "^21.1.5",
     "@angular/compiler": "^21.0.0",
     "@angular/compiler-cli": "^21.0.3",
     "@angular/core": "^21.0.0",
